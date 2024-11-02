@@ -2,5 +2,29 @@
 	{
 		"item": "minecraft:enchanted_golden_apple",
 		"duration": 150
+	},
+	{
+		"item": "firmalife:food/cheddar",
+		"duration": 150
+	},
+	{
+		"item": "firmalife:food/chevre",
+		"duration": 150
+	},
+	{
+		"item": "firmalife:food/rajya_metok",
+		"duration": 150
+	},
+	{
+		"item": "firmalife:food/gouda",
+		"duration": 150
+	},
+	{
+		"item": "firmalife:food/feta",
+		"duration": 150
+	},
+	{
+		"item": "firmalife:food/shosha",
+		"duration": 150
 	}
 ]
